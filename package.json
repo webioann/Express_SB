@@ -1,12 +1,13 @@
 {
   "name": "postgresql_db",
   "version": "1.0.0",
-  "description": "",
+  "description": "Custom PostgreSQL database service ('first look')",
+  "repository": "https://github.com/webioann/Express_SB/tree/postgres",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Webioann",
   "license": "ISC"
 }
